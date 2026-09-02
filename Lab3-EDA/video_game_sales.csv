@@ -1,0 +1,61 @@
+Rank,Name,Platform,Year,Genre,Publisher,NA_Sales,EU_Sales,JP_Sales,Other_Sales,Global_Sales
+1,Wii Sports,Wii,2006,Sports,Nintendo,41.49,29.02,3.77,8.46,82.74
+2,Super Mario Bros.,NES,1985,Platform,Nintendo,29.08,3.58,6.81,0.77,40.24
+3,Mario Kart Wii,Wii,2008,Racing,Nintendo,15.85,12.88,3.79,3.31,35.82
+4,Wii Sports Resort,Wii,2009,Sports,Nintendo,15.75,11.01,3.28,2.96,33.00
+5,Pokemon Red/Pokemon Blue,GB,1996,Role-Playing,Nintendo,11.27,8.89,10.22,1.00,31.37
+6,Tetris,GB,1989,Puzzle,Nintendo,23.2,2.26,4.22,0.58,30.26
+7,New Super Mario Bros.,DS,2006,Platform,Nintendo,11.38,9.23,6.5,2.9,30.01
+8,Wii Play,Wii,2006,Misc,Nintendo,14.03,9.2,2.93,2.85,29.02
+9,New Super Mario Bros. Wii,Wii,2009,Platform,Nintendo,14.59,7.06,4.7,2.26,28.62
+10,Duck Hunt,NES,1984,Shooter,Nintendo,26.93,0.63,0.28,0.47,28.31
+11,Nintendogs,DS,2005,Simulation,Nintendo,9.07,11,1.93,2.75,24.76
+12,Mario Kart DS,DS,2005,Racing,Nintendo,9.81,7.57,4.13,1.92,23.42
+13,Pokemon Gold/Pokemon Silver,GB,2000,Role-Playing,Nintendo,9,6.18,7.2,0.71,23.1
+14,Wii Fit,Wii,2007,Sports,Nintendo,8.94,8.03,3.6,2.15,22.72
+15,Wii Fit Plus,Wii,2009,Sports,Nintendo,9.09,8.59,2.53,1.79,21.82
+16,Kinect Adventures!,X360,2010,Misc,Microsoft Game Studios,15.0,4.89,0.24,1.69,21.82
+17,Grand Theft Auto V,PS3,2013,Action,Take-Two Interactive,7.01,9.27,0.97,4.14,21.4
+18,Grand Theft Auto: San Andreas,PS2,2004,Action,Take-Two Interactive,9.43,0.4,0.41,10.57,20.81
+19,Super Mario World,SNES,1990,Platform,Nintendo,12.78,3.75,3.54,0.55,20.61
+20,Brain Age: Train Your Brain,DS,2005,Misc,Nintendo,4.75,9.26,4.16,2.05,20.22
+21,Pokemon Diamond/Pokemon Pearl,DS,2006,Role-Playing,Nintendo,6.42,4.52,6.04,1.37,18.36
+22,Super Mario Land,GB,1989,Platform,Nintendo,5.07,2.3,4.17,0.34,18.14
+23,Super Mario Bros. 3,NES,1988,Platform,Nintendo,9.54,3.44,3.84,0.46,17.28
+24,Gran Turismo 3: A-Spec,PS2,2001,Racing,Sony Computer Entertainment,6.85,5.09,1.87,1.16,14.98
+25,Call of Duty: Black Ops,X360,2010,Shooter,Activision,9.67,3.73,0.11,1.13,14.64
+26,Call of Duty: Black Ops 3,PS4,2015,Shooter,Activision,5.77,5.81,0.35,2.31,14.24
+27,Call of Duty: Modern Warfare 3,X360,2011,Shooter,Activision,8.97,3.17,0.1,0.97,13.83
+28,The Elder Scrolls V: Skyrim,X360,2011,Role-Playing,Bethesda Softworks,5.93,4.24,0.11,1.33,11.66
+29,Grand Theft Auto V,X360,2013,Action,Take-Two Interactive,6.94,4.09,0.06,1.06,12.15
+30,FIFA 16,PS4,2015,Sports,EA Sports,1.08,6.6,0.08,1.69,9.45
+31,FIFA 17,PS4,2016,Sports,EA Sports,0.97,6.18,0.08,1.54,8.77
+32,Minecraft,X360,2013,Misc,Microsoft Game Studios,5.0,2.37,0.12,0.8,8.29
+33,Call of Duty: Black Ops II,PS3,2012,Shooter,Activision,4.21,3.73,0.12,0.97,9.03
+34,Crash Bandicoot N. Sane Trilogy,PS4,2017,Platform,Activision,1.96,2.64,0.35,0.65,5.6
+35,Red Dead Redemption 2,PS4,2018,Action,Take-Two Interactive,3.1,2.98,0.15,1.22,7.45
+36,God of War,PS4,2018,Action,Sony Interactive Entertainment,2.8,2.1,0.3,0.9,6.1
+37,The Last of Us,PS3,2013,Action,Sony Computer Entertainment,4.03,2.37,0.47,0.83,7.7
+38,Uncharted 4: A Thief s End,PS4,2016,Action,Sony Computer Entertainment,2.7,2.5,0.3,0.8,6.3
+39,Forza Horizon 4,XOne,2018,Racing,Microsoft Studios,1.5,1.8,0.05,0.4,3.75
+40,Sekiro: Shadows Die Twice,PS4,2019,Action,Activision,0.8,0.7,0.5,0.3,2.3
+41,NBA 2K20,PS4,2019,Sports,2K Sports,1.5,0.8,0.05,0.4,2.75
+42,Mortal Kombat 11,PS4,2019,Fighting,Warner Bros.,1.2,0.9,0.1,0.3,2.5
+43,Animal Crossing: New Horizons,NS,2020,Simulation,Nintendo,5.0,4.5,8.0,2.0,19.5
+44,The Legend of Zelda: Breath of the Wild,NS,2017,Action-Adventure,Nintendo,5.0,3.5,2.5,1.5,12.5
+45,Super Mario Odyssey,NS,2017,Platform,Nintendo,6.0,4.0,3.0,1.5,14.5
+46,Pokemon Sword/Shield,NS,2019,Role-Playing,Nintendo,4.5,3.0,5.0,1.5,14.0
+47,Mario Kart 8 Deluxe,NS,2017,Racing,Nintendo,7.0,5.5,3.5,2.0,18.0
+48,Splatoon 2,NS,2017,Shooter,Nintendo,2.5,1.8,3.8,0.8,8.9
+49,Super Smash Bros. Ultimate,NS,2018,Fighting,Nintendo,4.5,3.0,4.0,1.5,13.0
+50,Luigi s Mansion 3,NS,2019,Action,Nintendo,2.5,2.0,1.5,0.8,6.8
+51,Grand Theft Auto V,PS4,2014,Action,Take-Two Interactive,4.0,5.5,0.3,2.0,11.8
+52,Spider-Man,PS4,2018,Action,Sony Interactive Entertainment,3.5,2.8,0.5,1.0,7.8
+53,,PS4,2017,Action,Square Enix,1.2,1.0,2.5,0.5,5.2
+54,FIFA 18,PS4,2017,Sports,EA Sports,0.9,6.0,0.07,1.4,8.37
+55,Call of Duty: WWII,PS4,2017,Shooter,Activision,3.5,3.0,0.2,0.9,7.6
+56,Battlefield 1,PS4,2016,Shooter,Electronic Arts,2.8,3.2,0.1,0.9,7.0
+57,Horizon Zero Dawn,PS4,2017,Action,Sony Interactive Entertainment,2.5,2.5,0.4,0.8,6.2
+58,Overwatch,PS4,2016,Shooter,Blizzard Entertainment,2.0,1.8,0.3,0.7,4.8
+59,Resident Evil 2,PS4,2019,Action,Capcom,1.0,1.2,0.8,0.5,3.5
+60,Death Stranding,PS4,2019,Action,Sony Interactive Entertainment,0.9,1.1,0.7,0.4,3.1
